@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+android/
+ios/
+*.tsbuildinfo
+*.d.ts
+!src/uniwind-types.d.ts
+.env
+.env.local
+bun.lock
